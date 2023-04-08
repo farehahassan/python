@@ -4,7 +4,7 @@ lname = input("Last name: ");
 age = input("Your age: ");
 print(fname + lname + age );       
 
-#this does not giving error because compiler consider this age variable as string but if we remove input from here then it'll give the concatenate str error which can be resolve by using TYPE CONVERSION
+'''this does not giving error because compiler consider this age variable as string but if we remove input from here then it'll give the concatenate str error which can be resolve by using TYPE CONVERSION'''
 
 #Type Conversion 
 

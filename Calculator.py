@@ -12,7 +12,6 @@ ddiv = first // second;
 div = first / second;
 rem = first % second;
 
-
 if op=='+':
     print("The sum is : " + str(sum))
     
