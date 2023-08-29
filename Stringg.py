@@ -18,4 +18,4 @@ blog = "hey I am fareha hassan a software engineering and currently learning pyt
 print(len(blog))        #length of varibale
 print(blog.endswith("ing"))         #wethear the string ends with given word or not
 print(blog.count("g"))              #counts the letter we given is present or not
-print(blog.capitalize())
+print(blog.capitalize())            #can capitalize the first letter of string
